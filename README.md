@@ -1,8 +1,6 @@
 # rtimulib_ros
 
-A simple package to use the nice RTIMULib (unfortunately , now unmaintained) from [RichardsTech](https://richardstechnotes.wordpress.com/) in ROS.
-
-The RTIMULib needs to be installed. It can be found here : <https://github.com/RTIMULib/RTIMULib>
+The RTIMULib needs to be installed. It can be found here : <https://github.com/citbrains/RTIMULib>
 
 ## Topic
 
